@@ -154,9 +154,6 @@ Make sure your system is update & upgrade, if not update it:
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Team
-- Rudy Lopez
-- Maxime Pospieszynski
 - Mayeul Desbazeille
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
